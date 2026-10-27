@@ -1,0 +1,6 @@
+{
+  "name": "Olympia Game Show Platform",
+  "description": "Nền tảng tổ chức Game show Đường lên đỉnh Olympia thời gian thực (Real-time) dành cho Admin, MC, Thí sinh và Khán giả.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,24 @@
+{
+  "admin@olympia.vn": {
+    "id": "usr_admin_root",
+    "email": "admin@olympia.vn",
+    "passwordHash": "7f233db6fb9eb155b47380bcf2853816c4bc66c6714d352c662686097c3d3054a6f936fe379a13f71a373cc4d87705aa3007353ce313b7eaa101936bfab98a28",
+    "passwordSalt": "dca3430dce8b90af010ef09e91f995d0",
+    "fullName": "Quản Trị Viên Hệ Thống (Super Admin)",
+    "isEmailVerified": true,
+    "status": "ACTIVE",
+    "role": "ADMIN",
+    "createdAt": "2026-08-23T11:48:43.206Z"
+  },
+  "105726000.trongtin@gmail.com": {
+    "id": "usr_admin_trongtin",
+    "email": "105726000.trongtin@gmail.com",
+    "passwordHash": "7f233db6fb9eb155b47380bcf2853816c4bc66c6714d352c662686097c3d3054a6f936fe379a13f71a373cc4d87705aa3007353ce313b7eaa101936bfab98a28",
+    "passwordSalt": "dca3430dce8b90af010ef09e91f995d0",
+    "fullName": "Trọng Tín (Super Admin)",
+    "isEmailVerified": true,
+    "status": "ACTIVE",
+    "role": "ADMIN",
+    "createdAt": "2026-08-23T11:48:43.206Z"
+  }
+}

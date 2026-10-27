@@ -1,0 +1,51 @@
+@import "tailwindcss";
+
+@layer base {
+  *, ::before, ::after {
+    font-family: 'Montserrat', 'Segoe UI', system-ui, -apple-system, sans-serif !important;
+  }
+  body {
+    font-family: 'Montserrat', 'Segoe UI', system-ui, -apple-system, sans-serif !important;
+  }
+}
+
+.font-player, .font-question, .font-sans, .font-mono {
+  font-family: 'Montserrat', 'Segoe UI', system-ui, -apple-system, sans-serif !important;
+}
+
+.font-round-title {
+  font-family: 'Be Vietnam Pro', 'Montserrat', system-ui, -apple-system, sans-serif !important;
+  line-height: 1.35 !important;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  overflow: visible !important;
+}
+
+/* Hide scrollbar for elements with .no-scrollbar */
+.no-scrollbar::-webkit-scrollbar {
+  display: none !important;
+  width: 0 !important;
+  height: 0 !important;
+}
+.no-scrollbar {
+  -ms-overflow-style: none !important;  /* IE and Edge */
+  scrollbar-width: none !important;  /* Firefox */
+}
+
+/* Custom sleek dark scrollbar for general scroll areas */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #090d16;
+}
+::-webkit-scrollbar-thumb {
+  background: #1e293b;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #334155;
+}
+
+
